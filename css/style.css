@@ -626,8 +626,8 @@ a.btn:hover {
 .btn-skin:active,
 .btn-skin.active {
   color: #fff;
-  background-color: #666;
-  border-color: #666;
+  background-color: ##526e7c;
+  border-color: ##526e7c;
 }
 
 
@@ -680,3 +680,4 @@ a.btn:hover {
 	}
 	
 }
+
