@@ -626,8 +626,8 @@ a.btn:hover {
 .btn-skin:active,
 .btn-skin.active {
   color: #fff;
-  background-color: ##526e7c;
-  border-color: ##526e7c;
+  background-color: #526e7c;
+  border-color: #526e7c;
 }
 
 
@@ -647,6 +647,8 @@ a.btn:hover {
 .banner-social-buttons {
     margin-top: 0;
 }
+
+
 
 
 /* Media queries */
@@ -680,6 +682,4 @@ a.btn:hover {
 	}
 	
 }
-
-
 
